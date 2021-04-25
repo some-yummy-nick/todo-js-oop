@@ -1,0 +1,14 @@
+{
+  "name": "todo-js-oop",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "webpack serve",
+    "build": "webpack"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "5.35.0",
+    "webpack-cli": "4.6.0",
+    "webpack-dev-server": "3.11.2"
+  }
+}
